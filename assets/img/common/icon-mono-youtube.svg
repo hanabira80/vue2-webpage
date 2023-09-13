@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <g id="mail--icon-mono-youtube" transform="translate(-202 -105)">
+    <g id="타원_3" data-name="타원 3" transform="translate(202 105)" fill="none" stroke="#aaa" stroke-width="2">
+      <circle cx="28" cy="28" r="28" stroke="none"/>
+      <circle cx="28" cy="28" r="27" fill="none"/>
+    </g>
+    <path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M34.435,8.251a4.284,4.284,0,0,0-3.015-3.034C28.762,4.5,18.1,4.5,18.1,4.5s-10.663,0-13.322.717A4.285,4.285,0,0,0,1.762,8.251a44.945,44.945,0,0,0-.713,8.26,44.945,44.945,0,0,0,.713,8.26,4.221,4.221,0,0,0,3.015,2.986c2.659.717,13.322.717,13.322.717s10.663,0,13.322-.717a4.221,4.221,0,0,0,3.015-2.986,44.945,44.945,0,0,0,.713-8.26,44.945,44.945,0,0,0-.713-8.26ZM14.612,21.582V11.442l8.912,5.07-8.912,5.07Z" transform="translate(211.95 116.5)" fill="#fff"/>
+  </g>
+</svg>
